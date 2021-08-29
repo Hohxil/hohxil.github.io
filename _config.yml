@@ -18,6 +18,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+  php:  '/PHP.html'
 
 # Footer
 footer:
